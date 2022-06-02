@@ -23,6 +23,25 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-stretch: wider;
 }
+h3 {
+    color: #2F8F9D;
+
+}
+p {
+    color: #3BACB6;
+}
+h2 {
+    color: #B3E8E5;
+}
+h1 {
+    color: #2F8F9D;
+}
+table {
+    color: #3BACB6;
+}
+ul {
+    color: #2F8F9D;
+}
 
 
 
