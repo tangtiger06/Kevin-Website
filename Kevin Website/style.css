@@ -1,0 +1,30 @@
+
+
+header {
+    padding: 20px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    position: fixed;
+    top: 0px;
+    font-size: large;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+body {
+    margin-top: 200px;
+    padding: 20px;
+    font-size: large;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: wider;
+}
+
+
+
+
+
