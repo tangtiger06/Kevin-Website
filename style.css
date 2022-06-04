@@ -44,7 +44,11 @@ ul {
     color: #2F8F9D;
 }
 
-
+hr{
+    background-color: #2F8F9D;
+    border-style: none;
+    height: 5px;
+}
 
 
 
