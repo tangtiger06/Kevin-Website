@@ -1,8 +1,9 @@
 
 
 header {
+    
     padding: 20px;
-    width: 100%;
+    width: 200%;
     justify-content: space-between;
     align-items: center;
     display: flex;
@@ -11,11 +12,14 @@ header {
     font-size: xx-large;
     font-style: inherit;
     font-family: 'Times New Roman', Times, serif;
+    background-color:#82DBD8;
+    
     
 
 
 
 }
+
 body {
     margin-top: 200px;
     padding: 20px;
