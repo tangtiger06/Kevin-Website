@@ -20,8 +20,30 @@ ul {
 table {
     border-color: #2F8F9D;
 }
-
-
-
-
-
+.btn {
+    background: #3BACB6;
+    background-image: -webkit-linear-gradient(top, #3BACB6, #B3E8E5);
+    background-image: -moz-linear-gradient(top, #3BACB6, #B3E8E5);
+    background-image: -ms-linear-gradient(top, #3BACB6, #B3E8E5);
+    background-image: -o-linear-gradient(top, #3BACB6, #B3E8E5);
+    background-image: linear-gradient(to bottom, #3BACB6, #B3E8E5);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: 3BACB6;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-color: #2F8F9D;
+  }
+  
+  .btn:hover {
+    background: #2F8F9D;
+    background-image: -webkit-linear-gradient(top, #2F8F9D, #82DBD8);
+    background-image: -moz-linear-gradient(top, #2F8F9D, #82DBD8);
+    background-image: -ms-linear-gradient(top, #2F8F9D, #82DBD8);
+    background-image: -o-linear-gradient(top, #2F8F9D, #82DBD8);
+    background-image: linear-gradient(to bottom, #2F8F9D, #82DBD8);
+    text-decoration: none;
+  }
