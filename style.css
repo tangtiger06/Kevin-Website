@@ -15,6 +15,7 @@ header {
     background-color: #82DBD8;;
     transition: padding 300ms ease;
     transition: font-size 300ms ease;
+    opacity: 0.75;
     
     
 
